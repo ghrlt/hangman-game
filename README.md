@@ -31,7 +31,7 @@
   
   4. Custom few game rules
   
-     - Any new rule customization is welcome! Either suggests in an issue or fork & PR!
+     - Any new rule customization is welcome! Either suggests in discussions tab or fork & PR!
     
     
     
