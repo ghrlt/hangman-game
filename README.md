@@ -19,13 +19,19 @@
     
   1. Start playing with default settings
   2. Choose the words language
-    - There's currently only French 🇫🇷 and English 🇬🇧
+  
+     - There's currently only French 🇫🇷 and English 🇬🇧
   3. Choose the words source
-    - Every language have a small list of words in settings.json
-    - French currently have an option to get a random word from a website
-      - TODO: Find and implement this for 🇬🇧
+  
+     - Every language have a small list of words in settings.json
+    
+     - French currently have an option to get a random word from a website
+    
+        - TODO: Find and implement this for 🇬🇧
+  
   4. Custom few game rules
-    - Any new rule customization is welcome! Either suggests in an issue or fork & PR!
+  
+     - Any new rule customization is welcome! Either suggests in an issue or fork & PR!
     
     
     
